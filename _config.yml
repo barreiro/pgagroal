@@ -8,31 +8,31 @@ kramdown:
   highlighter: rouge
 ###
 copyright: © 2020 <a href="https://www.redhat.com">RedHat Inc.</a>
-about: <a href="https://agroal.github.io/pgagroal/performance.html">High performance</a> connection pool for <a href="https://www.postgresql.org">PostgreSQL</a>
-root: https://agroal.github.io/pgagroal
+about: <a href="https://barreiro.github.io/pgagroal/performance.html">High performance</a> connection pool for <a href="https://www.postgresql.org">PostgreSQL</a>
+root: https://barreiro.github.io/pgagroal
 headers:
     - name: Configuration
-      url: https://agroal.github.io/pgagroal/configuration.html
+      url: https://barreiro.github.io/pgagroal/configuration.html
     - name: About
-      url: https://agroal.github.io/pgagroal/about.html
+      url: https://barreiro.github.io/pgagroal/about.html
 urls:
     - text: home
-      url: https://agroal.github.io/pgagroal
-      icon: https://agroal.github.io/pgagroal/images/icomoon/001-home.png
+      url: https://barreiro.github.io/pgagroal
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/001-home.png
     - text: releases
-      url: https://agroal.github.io/pgagroal/releases.html
-      icon: https://agroal.github.io/pgagroal/images/icomoon/097-download.png
+      url: https://barreiro.github.io/pgagroal/releases.html
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/097-download.png
     - text: getting started
-      url: https://agroal.github.io/pgagroal/gettingstarted.html
-      icon: https://agroal.github.io/pgagroal/images/icomoon/027-bullhorn.png
+      url: https://barreiro.github.io/pgagroal/gettingstarted.html
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/027-bullhorn.png
 
 github:
     - text: github
       url: https://github.com/agroal/pgagroal
-      icon: https://agroal.github.io/pgagroal/images/icomoon/433-github.png
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/433-github.png
     - text: license
       url: https://opensource.org/licenses/BSD-3-Clause
-      icon: https://agroal.github.io/pgagroal/images/icomoon/034-library.png
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/034-library.png
     - text: issues
       url: https://github.com/agroal/pgagroal/issues
-      icon: https://agroal.github.io/pgagroal/images/icomoon/154-bug.png
+      icon: https://barreiro.github.io/pgagroal/images/icomoon/154-bug.png
