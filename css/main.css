@@ -32,7 +32,7 @@ body {
   font-family: 'Overpass', Helvetica, Arial, sans-serif;
   font-size: 16px;
   background-color: #FFFFFF;
-  color: #000000;
+  color: #424242;
 }
 
 /* Font and link declarations */
@@ -46,32 +46,32 @@ span.date {
 
 h1 {
   font-weight: normal;
-  color: #336791;
+  color: #6699ff;
   margin-top: 10px;
   margin-bottom: 20px;
   text-transform: uppercase;
 }
 
 h2 {
-  font-weight: normal;
+  font-weight: bold;
   margin-bottom: 5px;
-  color: #336791;
+  color: #6699ff;
 }
 
 h3 {
-  font-weight: normal;
+  font-weight: bold;
   margin-bottom: 5px;
-  color: #336791;
-  text-decoration: underline;
+  color: #6699ff;       
+  border-bottom: 1px solid #E6E6E6;
 }
 
 a, a:link, a:active {
   text-decoration: none;
-  color: #336791;
+  color: #8C8C8C;
 }
 
 a:hover {
-  color: #336791;
+  color: #6699ff;
   text-decoration: underline;
 }
 
@@ -133,12 +133,19 @@ div.right li.posts {
 div.left {
   float: left;
   font-size: 16px;
-  color: #000000;
+  color: #424242;
   text-align: right;
   margin-top: 16px;
   margin-right: 16px;
 }
 
+div.left img#logo {
+  /* -webkit-border-radius: 200px; */
+  height: 120px;
+  width: 120px;
+  margin-bottom: 16px;
+}
+     
 div.left a.about {
   line-height: 2em;
 }
@@ -161,6 +168,6 @@ footer span.right {
 }
 
 footer a {
-  color: #336791;
+  color: #6699ff;
 }
 
